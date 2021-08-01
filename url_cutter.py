@@ -104,7 +104,7 @@ while True:
 
 
     elif option in "2":
-        webbrowser.open("", new=0)
+        webbrowser.open("https://github.com/abutlb/url_cutter", new=0)
 
     elif option in "3.quit":
         for l in range(3,0,-1):
