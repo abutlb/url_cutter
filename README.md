@@ -12,7 +12,7 @@ just start the script and it will ask you if you need to insatall the pakages
 ## the .txt file method  
 make a .txt file put in the same folder and write your urls and seperate them with a `,`
 ## the .xlsx file method  
-make an excel table and put the urls in the first column with the word `url` in the first row and write the urls starting from the second row  
+make an excel .xlsx file in the same folder and put the urls in the first column with the word `url` in the first row and write the urls starting from the second row  
 
 # and you are SET
 ## just start the script and follow the instructions
