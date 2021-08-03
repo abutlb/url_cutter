@@ -1,5 +1,5 @@
 # url_cutter
-url shortning tool using [cutt.us](http://cutt.us) api
+multi url shortning tool using [cutt.us](http://cutt.us) api (can take massive urls as long as your computer handels it)
 
 # START  
 first you need to install the pakages needed by 2 ways  
